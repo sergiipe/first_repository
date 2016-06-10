@@ -1,0 +1,5 @@
+*.exe
+*.dll
+Lesson_6_online_Generic/bin*/
+Lesson_6_online_Generic/obj*/
+Lesson_6_online_Generic/Properties*/
